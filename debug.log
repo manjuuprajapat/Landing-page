@@ -1,0 +1,2 @@
+[9624:1372:1205/125834.124:VERBOSE1:installer.cc(429)] "C:\projects\gsap\ChromeSetup.exe" --install=appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&iid={C004689D-CBB3-B2F1-71ED-7A03F6B995CE}&lang=en&browser=4&usagestats=1&appname=Google%20Chrome&needsadmin=prefers&ap=x64-statsdef_1&installdataindex=empty --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2
+[9624:1372:1205/125943.360:VERBOSE1:installer.cc(538)] Metainstaller WMain returned: 73500, Windows error: 0
